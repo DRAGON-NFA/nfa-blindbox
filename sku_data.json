@@ -1,0 +1,21 @@
+[
+  {
+    "sku": "ICF001",
+    "items": [
+      { "id": "ICF001-01", "image": "https://cdn.shopify.com/s/files/1/0693/2499/6793/files/65658.png?v=1747645516
+" },
+      { "id": "ICF001-02", "image": "https://cdn.shopify.com/s/files/1/0693/2499/6793/files/65658.png?v=1747645516" },
+      ...
+    ]
+  },
+  {
+    "sku": "ICF002",
+    "items": [
+      { "id": "ICF002-01", "image": "https://cdn.shopify.com/s/files/1/0693/2499/6793/files/1223213.png?v=1747318955
+" },
+      { "id": "ICF002-02", "image": "https://cdn.shopify.com/s/files/1/0693/2499/6793/files/1223213.png?v=1747318955
+" },
+      ...
+    ]
+  }
+]
